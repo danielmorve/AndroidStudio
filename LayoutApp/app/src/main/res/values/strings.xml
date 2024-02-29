@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutApp</string>
+    <string name="title">Toy Story</string>
+    <string name="date">Jun 18 2010</string>
+    <string name="description">Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion a Woody\’s slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they\’re worlds apart when it comes to what they want from life as a toy.</string>
+    <string name="rent">Rent from\n$ 24.99</string>
+    <string name="buy">Buy from\n$ 44.99</string>
+</resources>
